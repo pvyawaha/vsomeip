@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpvyawaha%2Fvsomeip.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpvyawaha%2Fvsomeip?ref=badge_shield)
+
 ### vsomeip
 
 ##### Copyright
@@ -8,6 +10,9 @@ Copyright (C) 2015-2022, Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpvyawaha%2Fvsomeip.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpvyawaha%2Fvsomeip?ref=badge_large)
 
 ##### vsomeip Overview
 ----------------
